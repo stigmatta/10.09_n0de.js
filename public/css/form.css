@@ -1,0 +1,29 @@
+form{
+    margin-inline:auto;
+    margin-top: 5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding-inline: 4em;
+    padding-block: 1em;
+    width: fit-content;
+    background-color:rgb(52, 112, 112)
+}
+
+label{
+    font-size: 2em;
+}
+
+input{
+    height: 2em;
+}
+
+button{
+    align-self: flex-end;
+    margin-top: 1em;
+    font-size: 1.3em;
+    background-color: blue;
+    color: white;
+}
+
